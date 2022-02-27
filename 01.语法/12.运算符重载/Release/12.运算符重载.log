@@ -1,0 +1,9 @@
+﻿D:\Develop\Microsoft\VisualStudio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(12.运算符重载.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01.运算符+重载.cpp
+  02.左移运算符重载.cpp
+  03.自加运算符重载.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  12.运算符重载.vcxproj -> F:\Learning\C++\语法学习\Source\01.语法\Release\12.运算符重载01.exe

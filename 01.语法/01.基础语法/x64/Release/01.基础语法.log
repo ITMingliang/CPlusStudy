@@ -1,0 +1,42 @@
+﻿  00.Test.cpp
+  01.模板.cpp
+  02.DataType.cpp
+  03.字符串.cpp
+  04.常量.cpp
+  05.sizeof.cpp
+  06.实型.cpp
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\06.实型.cpp(23,17): warning C4305: “初始化”: 从“double”到“float”截断
+  07.布尔类型.cpp
+  08.数据输入.cpp
+  09.加减乘除运算符.cpp
+  10.取模运算符.cpp
+  11.递增.cpp
+  12.赋值运算.cpp
+  13.逻辑运算符.cpp
+  14.if.cpp
+  15.三目运算符.cpp
+  16.水仙花数.cpp
+  17.continue.cpp
+  18.goto.cpp
+  19.数组.cpp
+  正在编译...
+  20.一维数组名的用途.cpp
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(17,47): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(17,47): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(19,66): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(19,66): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(20,66): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\20.一维数组名的用途.cpp(20,66): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  21.冒泡排序.cpp
+  22.二维数组.cpp
+  23.二维数组数组名.cpp
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\23.二维数组数组名.cpp(28,69): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\23.二维数组数组名.cpp(28,69): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\23.二维数组数组名.cpp(29,70): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\23.二维数组数组名.cpp(29,70): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  24.三位学生的总成绩.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  01.基础语法.vcxproj -> F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\x64\Release\01.基础语法.exe

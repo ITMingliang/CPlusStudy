@@ -1,0 +1,8 @@
+﻿  01.程序运行前.cpp
+  02.程序运行后.cpp
+  正在生成代码
+  Compiler switch has changed, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+F:\Learning\C++\语法学习\Source\01.语法\07.内存分区模型\02.程序运行后.cpp(10): warning C4172: 返回局部变量或临时变量的地址: a
+  已完成代码的生成
+  07.内存分区模型.vcxproj -> F:\Learning\C++\语法学习\Source\01.语法\01.基础语法\Release\07.内存分区模型.exe

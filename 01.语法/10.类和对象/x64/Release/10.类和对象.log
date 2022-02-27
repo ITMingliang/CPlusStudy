@@ -1,0 +1,19 @@
+﻿  01.封装圆类.cpp
+  02.封装学生类.cpp
+  03.访问权限案例.cpp
+  04.成员属性设置为私有.cpp
+  05.构造函数与析构函数.cpp
+  06.构造函数的种类.cpp
+  07.拷贝构造函数.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4627): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；1 字节将在偏移 32 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4625): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 56 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(2358): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 32 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4625): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 24 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4627): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；1 字节将在偏移 32 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4625): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 56 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(2358): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 32 时开始写入
+D:\Develop\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4625): error C4789: 缓冲区“p”(大小为 8 字节)将溢出；8 字节将在偏移 24 时开始写入
+  All 50 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: 代码生成失败

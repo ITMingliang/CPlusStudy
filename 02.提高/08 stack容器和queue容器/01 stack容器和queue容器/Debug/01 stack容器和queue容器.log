@@ -1,0 +1,5 @@
+﻿D:\Develop\Microsoft\VisualStudio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(01 stack容器和queue容器.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01 stack容器.cpp
+  02 queue容器.cpp
+  正在生成代码...
+  01 stack容器和queue容器.vcxproj -> F:\Learning\C++\语法学习\Source\02.提高\01 函数模板语法\Debug\08 stack容器和queue容器.exe

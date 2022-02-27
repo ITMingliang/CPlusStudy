@@ -1,0 +1,13 @@
+﻿  01.封装圆类.cpp
+  02.封装学生类.cpp
+  03.访问权限案例.cpp
+  04.成员属性设置为私有.cpp
+  05.构造函数与析构函数.cpp
+  06.构造函数的种类.cpp
+  07.拷贝构造函数.cpp
+F:\Learning\C++\语法学习\Source\01.语法\10.类和对象\07.拷贝构造函数.cpp(31,9): warning C4930: “Person man1(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 42 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  10.类和对象.vcxproj -> F:\Learning\C++\语法学习\Source\01.语法\Release\10.类和对象.exe

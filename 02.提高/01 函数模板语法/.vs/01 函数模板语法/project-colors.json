@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ed36a11-2fbe-439c-8c19-45a590c20256": {
+      "ProjectGuid": "8ed36a11-2fbe-439c-8c19-45a590c20256",
+      "DisplayName": "01 函数模板语法",
+      "ColorIndex": 0
+    },
+    "9609b196-659f-41f3-87ff-41fa00701880": {
+      "ProjectGuid": "9609b196-659f-41f3-87ff-41fa00701880",
+      "DisplayName": "01 类模板语法",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "142e9401-df9a-4bce-9da5-df89263d5ec4": {
+      "ProjectGuid": "142e9401-df9a-4bce-9da5-df89263d5ec4",
+      "DisplayName": "01 STL初识",
+      "ColorIndex": 2
+    },
+    "60245711-61c1-4ce0-9d62-6bbaae6a61be": {
+      "ProjectGuid": "60245711-61c1-4ce0-9d62-6bbaae6a61be",
+      "DisplayName": "04 string容器",
+      "ColorIndex": 3
+    },
+    "89f938b5-1e6b-418a-8e3d-5bcd41f9f843": {
+      "ProjectGuid": "89f938b5-1e6b-418a-8e3d-5bcd41f9f843",
+      "DisplayName": "05 vector容器",
+      "ColorIndex": 4
+    },
+    "07b1143f-daba-4ab0-bf7a-a146caccd8f3": {
+      "ProjectGuid": "07b1143f-daba-4ab0-bf7a-a146caccd8f3",
+      "DisplayName": "06 deque容器",
+      "ColorIndex": 5
+    },
+    "0304f98f-facb-4fec-805c-4d6e7d2f9d13": {
+      "ProjectGuid": "0304f98f-facb-4fec-805c-4d6e7d2f9d13",
+      "DisplayName": "07 STL案例-评委打分",
+      "ColorIndex": 6
+    },
+    "bbd11202-ddd0-4f67-bdb1-9b56020ccce0": {
+      "ProjectGuid": "bbd11202-ddd0-4f67-bdb1-9b56020ccce0",
+      "DisplayName": "08 stack容器和queue容器",
+      "ColorIndex": 7
+    },
+    "4fa460ab-7ddf-447d-b4be-9f31f34f9581": {
+      "ProjectGuid": "4fa460ab-7ddf-447d-b4be-9f31f34f9581",
+      "DisplayName": "09 list容器",
+      "ColorIndex": 8
+    },
+    "08d823f6-cd67-4213-af3b-d48d50a7c368": {
+      "ProjectGuid": "08d823f6-cd67-4213-af3b-d48d50a7c368",
+      "DisplayName": "10 set容器",
+      "ColorIndex": 9
+    },
+    "440df22f-d13e-43d6-9084-334645c1f701": {
+      "ProjectGuid": "440df22f-d13e-43d6-9084-334645c1f701",
+      "DisplayName": "11 map容器",
+      "ColorIndex": 10
+    },
+    "581ea4f4-f6cf-4c19-92df-c7d35a5d4fa6": {
+      "ProjectGuid": "581ea4f4-f6cf-4c19-92df-c7d35a5d4fa6",
+      "DisplayName": "12 STL案例_员工分组",
+      "ColorIndex": 11
+    },
+    "c8a39635-021a-41f1-8d55-e0ca4155aa10": {
+      "ProjectGuid": "c8a39635-021a-41f1-8d55-e0ca4155aa10",
+      "DisplayName": "13 函数对象",
+      "ColorIndex": 12
+    },
+    "e66b1e2c-91f7-4b8c-9dd4-b32b3898676e": {
+      "ProjectGuid": "e66b1e2c-91f7-4b8c-9dd4-b32b3898676e",
+      "DisplayName": "14 常用遍历算法",
+      "ColorIndex": 13
+    },
+    "e6fad09f-29d1-4081-820d-9fd0b0bda8b1": {
+      "ProjectGuid": "e6fad09f-29d1-4081-820d-9fd0b0bda8b1",
+      "DisplayName": "15 常用查找算法",
+      "ColorIndex": 14
+    },
+    "aa4952f9-be3d-49f0-ba07-edd634884e4f": {
+      "ProjectGuid": "aa4952f9-be3d-49f0-ba07-edd634884e4f",
+      "DisplayName": "16 常用排序算法",
+      "ColorIndex": 15
+    },
+    "bea6b4ca-5347-4037-8731-5fd5b0baa28d": {
+      "ProjectGuid": "bea6b4ca-5347-4037-8731-5fd5b0baa28d",
+      "DisplayName": "17 常用拷贝和替换算法",
+      "ColorIndex": 0
+    },
+    "e6243f6a-6638-4643-a994-a4669b2ed5e5": {
+      "ProjectGuid": "e6243f6a-6638-4643-a994-a4669b2ed5e5",
+      "DisplayName": "18 常用算术生成算法",
+      "ColorIndex": 1
+    },
+    "b7084273-cfca-4887-9b16-9375d6b2bdad": {
+      "ProjectGuid": "b7084273-cfca-4887-9b16-9375d6b2bdad",
+      "DisplayName": "19 常用集合算法",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

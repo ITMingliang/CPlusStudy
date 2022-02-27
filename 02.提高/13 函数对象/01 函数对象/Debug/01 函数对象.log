@@ -1,0 +1,5 @@
+﻿D:\Develop\Microsoft\VisualStudio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(01 函数对象.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  05 内建函数对象_关系仿函数.cpp
+  06 内建函数对象_逻辑仿函数.cpp
+  正在生成代码...
+  01 函数对象.vcxproj -> F:\Learning\C++\语法学习\Source\02.提高\01 函数模板语法\Debug\13 函数对象.exe

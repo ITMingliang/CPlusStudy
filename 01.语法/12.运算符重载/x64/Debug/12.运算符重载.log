@@ -1,0 +1,6 @@
+﻿  01.运算符+重载.cpp
+  02.左移运算符重载.cpp
+  03.自加运算符重载.cpp
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+F:\Learning\C++\语法学习\Source\01.语法\x64\Debug\12.运算符重载.exe : fatal error LNK1120: 1 个无法解析的外部命令
